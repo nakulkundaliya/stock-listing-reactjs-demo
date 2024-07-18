@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "YOUR_KEY",
+  "private_key_id": "YOUR_KEY",
+  "private_key": "YOUR_KEY",
+  "client_email": "YOUR_KEY",
+  "client_id": "YOUR_KEY",
+  "auth_uri": "YOUR_KEY",
+  "token_uri": "YOUR_KEY",
+  "auth_provider_x509_cert_url": "YOUR_KEY",
+  "client_x509_cert_url": "YOUR_KEY",
+  "universe_domain": "YOUR_KEY"
+}
